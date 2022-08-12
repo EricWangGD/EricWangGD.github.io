@@ -1,35 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.1328dcfc.js",
-    "ChatModule.js": "/ChatModuleEntry.js",
-    "static/css/440.7eabdd83.chunk.css": "/static/css/440.7eabdd83.chunk.css",
-    "static/js/440.5d194d3c.chunk.js": "/static/js/440.5d194d3c.chunk.js",
-    "static/js/791.fb4f0ad6.chunk.js": "/static/js/791.fb4f0ad6.chunk.js",
-    "static/css/393.742756ff.chunk.css": "/static/css/393.742756ff.chunk.css",
-    "static/js/393.56f6bd8b.chunk.js": "/static/js/393.56f6bd8b.chunk.js",
-    "static/js/661.cff92b49.chunk.js": "/static/js/661.cff92b49.chunk.js",
-    "static/js/787.f38e7388.chunk.js": "/static/js/787.f38e7388.chunk.js",
-    "static/js/671.5b1d5a31.chunk.js": "/static/js/671.5b1d5a31.chunk.js",
-    "static/js/164.2034fb17.chunk.js": "/static/js/164.2034fb17.chunk.js",
-    "static/js/621.e914fe52.chunk.js": "/static/js/621.e914fe52.chunk.js",
-    "static/media/Averta-Regular.otf": "/static/media/Averta-Regular.685621fb543080e8aff0.otf",
-    "static/media/Averta-Semibold.otf": "/static/media/Averta-Semibold.7c84017c0079a6778f2d.otf",
-    "static/media/Averta-RegularItalic.otf": "/static/media/Averta-RegularItalic.efac9b72ac0765ade034.otf",
-    "static/media/Averta-SemiboldItalic.otf": "/static/media/Averta-SemiboldItalic.ca21cc0fd2d0f4d17c68.otf",
+    "main.css": "/static/css/main.css",
+    "main.js": "/static/js/main.js",
+    "static/js/661.76a5f011.chunk.js": "/static/js/661.76a5f011.chunk.js",
     "index.html": "/index.html",
-    "main.1328dcfc.js.map": "/static/js/main.1328dcfc.js.map",
-    "ChatModuleEntry.js.map": "/ChatModuleEntry.js.map",
-    "440.7eabdd83.chunk.css.map": "/static/css/440.7eabdd83.chunk.css.map",
-    "440.5d194d3c.chunk.js.map": "/static/js/440.5d194d3c.chunk.js.map",
-    "791.fb4f0ad6.chunk.js.map": "/static/js/791.fb4f0ad6.chunk.js.map",
-    "393.742756ff.chunk.css.map": "/static/css/393.742756ff.chunk.css.map",
-    "393.56f6bd8b.chunk.js.map": "/static/js/393.56f6bd8b.chunk.js.map",
-    "787.f38e7388.chunk.js.map": "/static/js/787.f38e7388.chunk.js.map",
-    "671.5b1d5a31.chunk.js.map": "/static/js/671.5b1d5a31.chunk.js.map",
-    "164.2034fb17.chunk.js.map": "/static/js/164.2034fb17.chunk.js.map",
-    "621.e914fe52.chunk.js.map": "/static/js/621.e914fe52.chunk.js.map"
+    "main.css.map": "/static/css/main.css.map",
+    "main.js.map": "/static/js/main.js.map"
   },
   "entrypoints": [
-    "static/js/main.1328dcfc.js"
+    "static/css/main.css",
+    "static/js/main.js"
   ]
 }
