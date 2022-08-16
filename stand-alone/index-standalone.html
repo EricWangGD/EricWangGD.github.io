@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <script src="http://localhost:3000/build/stand-alone/static/js/main.js"></script>
+    </head>
+    <body>
+        <div id="chat-root"></div>
+        <script>
+            console.log(window.chatModuleRender);
+            const div = document.getElementById('chat-root');
+            window.chatModuleRender.default(div, {containerElement:div,
+            accessToken:"ajkdjkljaklsjdfkljaklsdjfljksdajlf",
+            brand:"go2bank",
+            accountIdentifier:"adjkajsdlfjlkajsd",
+            onChatWidgetClose:()=>{},
+            applicationId:"10001"});
+        </script>
+    </body>
+</html>
