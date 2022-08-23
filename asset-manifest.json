@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.230f3b14.js",
+    "main.js": "/static/js/main.6136c38a.js",
     "ChatModule.js": "/ChatModuleEntry.js",
     "static/css/440.4bb1fd4e.chunk.css": "/static/css/440.4bb1fd4e.chunk.css",
     "static/js/440.d07eb988.chunk.js": "/static/js/440.d07eb988.chunk.js",
     "static/js/791.fb4f0ad6.chunk.js": "/static/js/791.fb4f0ad6.chunk.js",
     "static/css/393.e2207b27.chunk.css": "/static/css/393.e2207b27.chunk.css",
     "static/js/393.2c8dc8ce.chunk.js": "/static/js/393.2c8dc8ce.chunk.js",
-    "static/js/661.68d33174.chunk.js": "/static/js/661.68d33174.chunk.js",
+    "static/js/661.feb0cd74.chunk.js": "/static/js/661.feb0cd74.chunk.js",
     "static/js/787.f38e7388.chunk.js": "/static/js/787.f38e7388.chunk.js",
     "static/js/671.5b1d5a31.chunk.js": "/static/js/671.5b1d5a31.chunk.js",
     "static/js/164.2034fb17.chunk.js": "/static/js/164.2034fb17.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/Averta-RegularItalic.otf": "/static/media/Averta-RegularItalic.efac9b72ac0765ade034.otf",
     "static/media/Averta-SemiboldItalic.otf": "/static/media/Averta-SemiboldItalic.ca21cc0fd2d0f4d17c68.otf",
     "index.html": "/index.html",
-    "main.230f3b14.js.map": "/static/js/main.230f3b14.js.map",
+    "main.6136c38a.js.map": "/static/js/main.6136c38a.js.map",
     "ChatModuleEntry.js.map": "/ChatModuleEntry.js.map",
     "440.4bb1fd4e.chunk.css.map": "/static/css/440.4bb1fd4e.chunk.css.map",
     "440.d07eb988.chunk.js.map": "/static/js/440.d07eb988.chunk.js.map",
@@ -30,6 +30,6 @@
     "694.6e800e63.chunk.js.map": "/static/js/694.6e800e63.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.230f3b14.js"
+    "static/js/main.6136c38a.js"
   ]
 }
